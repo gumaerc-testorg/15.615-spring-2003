@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ Topics
 
 **Introduction**
 
-Tort Law in a peanut ([PDF]({{< baseurl >}}/resources/tortlawinapeanut))
+Tort Law in a peanut ({{% resource_link 19f398c8-cd46-993c-256b-71d84a65a7d6 "PDF" %}})
 
 
 {{< tdclose >}}
