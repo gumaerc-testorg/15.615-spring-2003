@@ -5,6 +5,7 @@ file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/b644222d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: doc110306notes.pdf
 uid: b644222d-310b-6cfc-e634-4b3d84bb380a
 ---
 Lecture 10:
-

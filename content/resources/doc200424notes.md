@@ -5,6 +5,7 @@ file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/322671c0a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: doc200424notes.pdf
 uid: 322671c0-a32a-37cd-ca8b-36a91f2015b2
 ---
 Lecture 19: Corporate gov.
-

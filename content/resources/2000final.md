@@ -5,6 +5,7 @@ file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/62c1705cb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2000final.pdf
 uid: 62c1705c-bd76-57cb-0ee0-62f23e9aa018
 ---
 Final Exam: Spring 2000
-

@@ -5,6 +5,7 @@ file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/80754f0d4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: doc9covenants.pdf
 uid: 80754f0d-4270-1b31-55f4-1520bd4501fc
 ---
 Lecture 8: Covenants not to compete
-

@@ -5,6 +5,7 @@ file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/4e2810590
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: goldberglecturev1.pdf
 uid: 4e281059-04f6-cc3b-b50d-0c82709562b8
 ---
 MEDIPRO: worksheet for claims and proposed treatment
-

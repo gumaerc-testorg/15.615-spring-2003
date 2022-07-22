@@ -5,6 +5,7 @@ file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/88d7f544c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 615f02finalfnl.pdf
 uid: 88d7f544-cf2d-1807-307f-b4f78066a6aa
 ---
 Second takehome exercise: Fall 2002
-

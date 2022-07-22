@@ -5,6 +5,7 @@ file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/718080ba8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bankruptcyoutline.pdf
 uid: 718080ba-83b8-1f90-b1e6-e5b2c65b567d
 ---
 Bankruptcy Outline Fidelity
-
