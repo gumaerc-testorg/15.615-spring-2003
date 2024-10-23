@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 13: Law'
-file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/4b07459fafb35c34d13fa0a7df296bbd_doc14_extra.pdf
+file: /ol-ocw-studio-app/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/4b07459fafb35c34d13fa0a7df296bbd_doc14_extra.pdf
 file_size: 111323
 file_type: application/pdf
 learning_resource_types:
