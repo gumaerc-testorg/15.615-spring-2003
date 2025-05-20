@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tort law in a peanut
-file: /ol-ocw-studio-app/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/19f398c8cd46993c256b71d84a65a7d6_tortlawinapeanut.pdf
+file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/19f398c8cd46993c256b71d84a65a7d6_tortlawinapeanut.pdf
 file_size: 94084
 file_type: application/pdf
 learning_resource_types:
