@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Final Exam: Spring 2000'
-file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/62c1705cbd7657cb0ee062f23e9aa018_2000final.pdf
+file: /ol-ocw-studio-app/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/62c1705cbd7657cb0ee062f23e9aa018_2000final.pdf
 file_size: 71099
 file_type: application/pdf
 learning_resource_types:
